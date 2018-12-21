@@ -1,0 +1,12 @@
+Required packages:
+
+Python 3.x
+pandas
+numpy
+matplotlib
+scipy
+pandas_profiling
+seaborn
+sickit-learn
+tensorflow
+keras
